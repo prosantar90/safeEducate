@@ -1,0 +1,81 @@
+@media(max-width:768px){
+.slide__text{
+	display: none;
+}
+	.main-title {
+	font-size: 28px;
+	line-height: 38px;
+}
+.sub-title {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.swiper-button-prev,.swiper-button-next {
+	display: none !important;
+}
+.achived_right_side {
+	overflow: hidden;
+	margin-top: 25px;
+}
+.single {
+	width: 250px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	padding: 15px 0 0;
+}
+
+.bloom__title_wrapper {
+	width: 95%;
+	margin: 0 auto;
+}
+.member__area img {
+	width: 100%;
+}
+.img_area {
+	width: 88px;
+	margin: 0;
+	padding: 0;
+}
+.c_navigation {
+	top: 3rem !important;
+}
+.interested iframe {
+	width: 100%;
+}
+.footer-copyright, .footer-copyright .privacy {
+	flex-direction: column;
+	text-align: center;
+}
+.devide {
+	display: none;
+}
+.entry-title {
+	font-size: 35px;
+	line-height: 40px;
+}
+/* Solution Responsive */
+.key-challanges_title h2, .solu_title h2 {
+	font-size: 28px;
+	line-height: 35px;
+}
+.icon_box {
+	width: 300px;
+	margin: 0 auto;
+	border: 1px solid var(--black-color);
+	border-radius: 10px;
+}
+.icon_box {
+	width: 300px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	padding: 15px;
+	flex-direction: column;
+	text-align: center;
+}
+.icon_box .icon {
+	padding: 0 !important;
+	margin: 0;
+}
+}
